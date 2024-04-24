@@ -14,6 +14,7 @@ Before using the application, set up the database:
 - **Download MySQL Format**:
   - Access the MySQL database file inside the `requirement` folder.
 - **Restore the Database**:
+  - Set to Ignore Errors
   - Import the MySQL file into your DBMS to restore the database.
 
 ### 3. Application Setup
