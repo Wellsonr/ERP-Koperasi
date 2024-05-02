@@ -30,8 +30,8 @@ Configure the application to ensure it can connect to your database:
 ### 4. Account Information
 Login to the application using the default user credentials:
 
-- **Username:** ADMINISTRATOR
-- **Password:** 123
+- **Username:** JACKY 
+- **Password:** ADMINJACKY
 
 ## Sneak Peek
 Here are some screenshots of the ERP-Koperasi Application:
